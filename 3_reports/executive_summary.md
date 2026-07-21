@@ -6,7 +6,7 @@ The objective was to understand how effectively the business retains customers a
 
 ## Key Findings
 
-* The business analyzed **5,878 unique customers** generating **£17.37M in revenue** across **252.11K orders**.
+* The business analyzed **5,878 unique customers** generating **£17.37M in revenue**.
 * Customer retention declines sharply after the initial purchase, with **Month 2 retention averaging only 23%**, indicating significant early-stage customer churn.
 * The strongest-performing cohort (**December 2009**) achieved **35% Month 2 retention**, substantially outperforming other customer groups.
 * Revenue is heavily concentrated among a relatively small group of highly engaged customers identified through RFM segmentation.
